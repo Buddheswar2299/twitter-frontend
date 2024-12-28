@@ -1,0 +1,36 @@
+button {
+  padding: 10px 20px;
+  margin: 20px 0;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+h3 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+p {
+  margin: 5px 0;
+  font-size: 0.9em;
+}
